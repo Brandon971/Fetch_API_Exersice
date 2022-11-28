@@ -1,0 +1,21 @@
+{
+    "Laptop":[{
+        "id": 1,
+        "Brand":"Macbook",
+        "SerialNumber":"CR717",
+        "userName":"Cristiano Ronaldo"
+    },
+    {
+        "id" : 2,
+        "Brand" :"Huawei",
+        "SerialNumber":"LM109",
+        "userName":"Lionel Messi"
+    },
+    {
+        "id": 3,
+        "Brand":"Samsung",
+        "SerialNumber":"NJ11",
+        "userName":"Neymar Junior"
+    }
+    ]
+}
